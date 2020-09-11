@@ -19,6 +19,9 @@ Crud feita em React e Bootstrap, utilizando json.server para cadastro de jogador
 # Clonar o repositório
 git clone https://github.com/eliton-pedrotti/crud-react.git
 
+# Entrar no diretório
+cd crud-react
+
 # Entrar no diretório frontend
 cd frontend
 
