@@ -1,6 +1,16 @@
-## 📖 Sobre 
-Crud feita em React e Bootstrap, utilizando json.server para cadastro de jogadores de League of Legends
- 
+
+### 🚐 Projeto
+
+Crud feita para cadastro de jogadores de League of Legends.
+
+### 💻 Tecnologias  
+
+As seguintes tecnologias foram utilizadas:
+
+* [React](https://pt-br.reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+
+
 <h1 align="center">
   <img src="https://ik.imagekit.io/s92ibqtpon/lol01_FEc8uLle2.jpg" alt="Logo" />
 </h1>
@@ -13,31 +23,33 @@ Crud feita em React e Bootstrap, utilizando json.server para cadastro de jogador
 
 --- 
 
-## ⌨ Como executar o projeto
+### 💾 Instalação
+
+Clone este repositório:
 
 ```bash
-# Clonar o repositório
 git clone https://github.com/eliton-pedrotti/crud-react.git
+```
 
-# Entrar no diretório
+Entre na pasta do projeto:
+
+```bash
 cd crud-react
+```
 
-# Entrar no diretório frontend
-cd frontend
+Para instalar todas as depêndencias, entre no diretório frontend e depois backend, executando o seguinte comando em ambos:
 
-# Instale as dependências
+```bash
 npm install
+```
 
-# Em seguida entre no diretorio backend
-cd backend
+Para rodar a aplicação, abra 2 terminais de cada pasta (front/back) e execute:
 
-# Instale as dependências
-npm install
-
-# E para executar, abra 2 terminais de cada pasta (front/back)
-E execute npm start em ambos
+```bash
+npm start
 ```
 
 A aplicação irá abrir automaticamente em `http://localhost:3001`
 
----
+
+Criado com ❤️ por Eliton Pedrotti.
