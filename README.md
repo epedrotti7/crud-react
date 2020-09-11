@@ -1,6 +1,19 @@
 ## 📖 Sobre 
 Crud feita em React utilizando json.server para cadastro de jogadores de League of Legends
- ## ⌨ Como executar o projeto
+ 
+<h1 align="center">
+  <img src="https://ik.imagekit.io/s92ibqtpon/lol01_FEc8uLle2.jpg" alt="Logo" />
+</h1>
+
+## 🖥 Preview 
+
+| Versão Desktop: |Versão Mobile: |
+|----------|----------|
+|![example](https://ik.imagekit.io/s92ibqtpon/lol02_5XG3URjRl4.jpg)|![example](https://ik.imagekit.io/s92ibqtpon/lol03_pkg6HDzX4.jpg)|
+
+--- 
+
+## ⌨ Como executar o projeto
 
 ```bash
 # Clonar o repositório
