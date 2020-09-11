@@ -18,8 +18,8 @@ cd backend
 # Instale as dependências
 npm install
 
-# E para executar, abra 2 teminais um em cada pasta (front/back)
-E execute `npm start` em ambos
+# E para executar, abra 2 terminais de cada pasta (front/back)
+E execute npm start em ambos
 ```
 
 A aplicação irá abrir automaticamente em `http://localhost:3001`
