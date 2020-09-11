@@ -1,5 +1,5 @@
 ## 📖 Sobre 
-Crud feita em React utilizando json.server para cadastro de jogadores de League of Legends
+Crud feita em React e Bootstrap, utilizando json.server para cadastro de jogadores de League of Legends
  
 <h1 align="center">
   <img src="https://ik.imagekit.io/s92ibqtpon/lol01_FEc8uLle2.jpg" alt="Logo" />
