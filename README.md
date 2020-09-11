@@ -12,8 +12,9 @@ cd frontend
 # Instale as dependências
 npm install
 
-# Em seguida em no diretorio backend
+# Em seguida entre no diretorio backend
 cd backend
+
 # Instale as dependências
 npm install
 
